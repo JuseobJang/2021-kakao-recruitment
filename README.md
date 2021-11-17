@@ -2,7 +2,7 @@
 
 **Swift** 언어를 이용한 API 통신 및 문제풀이
 
-[programmser :  2021 Kakao 2차 코딩테스트 문제 링크](https://programmers.co.kr/skill_check_assignments/67)
+[programmers :  2021 Kakao 2차 코딩테스트 문제 링크](https://programmers.co.kr/skill_check_assignments/67)
 
 ## API 통신
 
